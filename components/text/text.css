@@ -1,0 +1,15 @@
+textarea {
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 80vw;
+    height: 20vh;
+    font-family: "Merriweather", serif;
+    text-rendering: optimizeLegibility;
+    font-size: 2rem;
+    font-weight: 100;
+    background-color: #fff;
+    border: none;
+    border-radius: 6px 6px 6px 6px;
+    line-height: 1.4em;
+    padding: 5px 8px;
+}

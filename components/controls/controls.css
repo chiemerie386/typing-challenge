@@ -1,0 +1,32 @@
+.button{
+    border: none;
+    padding: 0.8rem 1rem;
+    margin: 0.5rem 1rem;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ffd000;
+}
+.button-box{
+    display: flex;
+    align-content: flex-start;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 30px
+}
+
+.time-input{
+    height: 100%;
+    width: 20px;
+    font-family: "Merriweather", serif;
+    text-rendering: optimizeLegibility;
+    font-size: 1.5rem;
+    font-weight: 100;
+    padding: 0.2rem 0.4rem 0.4rem 0.4rem;
+}
+.time-selector{
+    border-radius: 10px;
+    padding: 0.5rem .5rem;
+    padding-bottom: 0rem;
+}
